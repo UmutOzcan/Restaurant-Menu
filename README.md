@@ -6,4 +6,4 @@
 
 Web'in temellerini oluşturan HTML, CSS ve JS kullanarak sade bir restaurant menusu geliştirdim.
 
-![Korea Pick Screen](assets/Pick.png)
+![Korea Pick Screen](assets/Korea.png)
