@@ -4,6 +4,6 @@
 
 ## Restaurant Menu with Javascript
 
-Web'in temellerini oluşturan HTML, CSS ve JS kullanarak sade bir restaurant menusu geliştirdim.
+I developed a simple restaurant menu using HTML, CSS and JS, which form the foundations of the web.
 
 ![Korea Pick Screen](assets/Korea.png)
